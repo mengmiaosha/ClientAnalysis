@@ -22,7 +22,7 @@ Reduce customer complaint rates by identifying root causes and implementing targ
 2. **Text Mining & Keyword Extraction**  
    - Applied **TF-IDF analysis** to identify high-impact keywords (e.g., "claim", "underpaid").  
    - Visualization: Word cloud generated using Python `wordcloud` library.  
-     ![Word Cloud](media/image2.png)  
+     ![Word Cloud](wordcloud.png)  
 
 3. **Root Cause Analysis**  
    - Methods: Co-occurrence analysis, temporal pattern verification, A/B testing.  
